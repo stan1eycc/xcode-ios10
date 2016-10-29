@@ -7,64 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		50D10CF61DC356A500341393 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50D10CF51DC356A500341393 /* AppDelegate.swift */; };
-		50D10CF81DC356A500341393 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50D10CF71DC356A500341393 /* ViewController.swift */; };
-		50D10CFB1DC356A500341393 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50D10CF91DC356A500341393 /* Main.storyboard */; };
-		50D10CFD1DC356A500341393 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50D10CFC1DC356A500341393 /* Assets.xcassets */; };
-		50D10D001DC356A500341393 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50D10CFE1DC356A500341393 /* LaunchScreen.storyboard */; };
-		50D10D0B1DC356A500341393 /* Hello_WorldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50D10D0A1DC356A500341393 /* Hello_WorldTests.swift */; };
-		50D10D161DC356A500341393 /* Hello_WorldUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50D10D151DC356A500341393 /* Hello_WorldUITests.swift */; };
+		50FF0B161DC4702200BA6A61 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50FF0B151DC4702200BA6A61 /* AppDelegate.swift */; };
+		50FF0B181DC4702200BA6A61 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50FF0B171DC4702200BA6A61 /* ViewController.swift */; };
+		50FF0B1B1DC4702200BA6A61 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50FF0B191DC4702200BA6A61 /* Main.storyboard */; };
+		50FF0B1D1DC4702200BA6A61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50FF0B1C1DC4702200BA6A61 /* Assets.xcassets */; };
+		50FF0B201DC4702200BA6A61 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50FF0B1E1DC4702200BA6A61 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		50D10D071DC356A500341393 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 50D10CEA1DC356A500341393 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 50D10CF11DC356A500341393;
-			remoteInfo = "Hello World";
-		};
-		50D10D121DC356A500341393 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 50D10CEA1DC356A500341393 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 50D10CF11DC356A500341393;
-			remoteInfo = "Hello World";
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
-		50D10CF21DC356A500341393 /* Hello World.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hello World.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		50D10CF51DC356A500341393 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		50D10CF71DC356A500341393 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		50D10CFA1DC356A500341393 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		50D10CFC1DC356A500341393 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		50D10CFF1DC356A500341393 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		50D10D011DC356A500341393 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		50D10D061DC356A500341393 /* Hello WorldTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hello WorldTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		50D10D0A1DC356A500341393 /* Hello_WorldTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hello_WorldTests.swift; sourceTree = "<group>"; };
-		50D10D0C1DC356A500341393 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		50D10D111DC356A500341393 /* Hello WorldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hello WorldUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		50D10D151DC356A500341393 /* Hello_WorldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hello_WorldUITests.swift; sourceTree = "<group>"; };
-		50D10D171DC356A500341393 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		50FF0B121DC4702200BA6A61 /* Hello World.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hello World.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		50FF0B151DC4702200BA6A61 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		50FF0B171DC4702200BA6A61 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		50FF0B1A1DC4702200BA6A61 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		50FF0B1C1DC4702200BA6A61 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		50FF0B1F1DC4702200BA6A61 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		50FF0B211DC4702200BA6A61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		50D10CEF1DC356A500341393 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		50D10D031DC356A500341393 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		50D10D0E1DC356A500341393 /* Frameworks */ = {
+		50FF0B0F1DC4702200BA6A61 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -74,67 +35,45 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		50D10CE91DC356A500341393 = {
+		50FF0B091DC4702200BA6A61 = {
 			isa = PBXGroup;
 			children = (
-				50D10CF41DC356A500341393 /* Hello World */,
-				50D10D091DC356A500341393 /* Hello WorldTests */,
-				50D10D141DC356A500341393 /* Hello WorldUITests */,
-				50D10CF31DC356A500341393 /* Products */,
+				50FF0B141DC4702200BA6A61 /* Hello World */,
+				50FF0B131DC4702200BA6A61 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		50D10CF31DC356A500341393 /* Products */ = {
+		50FF0B131DC4702200BA6A61 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				50D10CF21DC356A500341393 /* Hello World.app */,
-				50D10D061DC356A500341393 /* Hello WorldTests.xctest */,
-				50D10D111DC356A500341393 /* Hello WorldUITests.xctest */,
+				50FF0B121DC4702200BA6A61 /* Hello World.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		50D10CF41DC356A500341393 /* Hello World */ = {
+		50FF0B141DC4702200BA6A61 /* Hello World */ = {
 			isa = PBXGroup;
 			children = (
-				50D10CF51DC356A500341393 /* AppDelegate.swift */,
-				50D10CF71DC356A500341393 /* ViewController.swift */,
-				50D10CF91DC356A500341393 /* Main.storyboard */,
-				50D10CFC1DC356A500341393 /* Assets.xcassets */,
-				50D10CFE1DC356A500341393 /* LaunchScreen.storyboard */,
-				50D10D011DC356A500341393 /* Info.plist */,
+				50FF0B151DC4702200BA6A61 /* AppDelegate.swift */,
+				50FF0B171DC4702200BA6A61 /* ViewController.swift */,
+				50FF0B191DC4702200BA6A61 /* Main.storyboard */,
+				50FF0B1C1DC4702200BA6A61 /* Assets.xcassets */,
+				50FF0B1E1DC4702200BA6A61 /* LaunchScreen.storyboard */,
+				50FF0B211DC4702200BA6A61 /* Info.plist */,
 			);
 			path = "Hello World";
-			sourceTree = "<group>";
-		};
-		50D10D091DC356A500341393 /* Hello WorldTests */ = {
-			isa = PBXGroup;
-			children = (
-				50D10D0A1DC356A500341393 /* Hello_WorldTests.swift */,
-				50D10D0C1DC356A500341393 /* Info.plist */,
-			);
-			path = "Hello WorldTests";
-			sourceTree = "<group>";
-		};
-		50D10D141DC356A500341393 /* Hello WorldUITests */ = {
-			isa = PBXGroup;
-			children = (
-				50D10D151DC356A500341393 /* Hello_WorldUITests.swift */,
-				50D10D171DC356A500341393 /* Info.plist */,
-			);
-			path = "Hello WorldUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		50D10CF11DC356A500341393 /* Hello World */ = {
+		50FF0B111DC4702200BA6A61 /* Hello World */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 50D10D1A1DC356A500341393 /* Build configuration list for PBXNativeTarget "Hello World" */;
+			buildConfigurationList = 50FF0B241DC4702200BA6A61 /* Build configuration list for PBXNativeTarget "Hello World" */;
 			buildPhases = (
-				50D10CEE1DC356A500341393 /* Sources */,
-				50D10CEF1DC356A500341393 /* Frameworks */,
-				50D10CF01DC356A500341393 /* Resources */,
+				50FF0B0E1DC4702200BA6A61 /* Sources */,
+				50FF0B0F1DC4702200BA6A61 /* Frameworks */,
+				50FF0B101DC4702200BA6A61 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -142,72 +81,26 @@
 			);
 			name = "Hello World";
 			productName = "Hello World";
-			productReference = 50D10CF21DC356A500341393 /* Hello World.app */;
+			productReference = 50FF0B121DC4702200BA6A61 /* Hello World.app */;
 			productType = "com.apple.product-type.application";
-		};
-		50D10D051DC356A500341393 /* Hello WorldTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 50D10D1D1DC356A500341393 /* Build configuration list for PBXNativeTarget "Hello WorldTests" */;
-			buildPhases = (
-				50D10D021DC356A500341393 /* Sources */,
-				50D10D031DC356A500341393 /* Frameworks */,
-				50D10D041DC356A500341393 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				50D10D081DC356A500341393 /* PBXTargetDependency */,
-			);
-			name = "Hello WorldTests";
-			productName = "Hello WorldTests";
-			productReference = 50D10D061DC356A500341393 /* Hello WorldTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
-		50D10D101DC356A500341393 /* Hello WorldUITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 50D10D201DC356A500341393 /* Build configuration list for PBXNativeTarget "Hello WorldUITests" */;
-			buildPhases = (
-				50D10D0D1DC356A500341393 /* Sources */,
-				50D10D0E1DC356A500341393 /* Frameworks */,
-				50D10D0F1DC356A500341393 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				50D10D131DC356A500341393 /* PBXTargetDependency */,
-			);
-			name = "Hello WorldUITests";
-			productName = "Hello WorldUITests";
-			productReference = 50D10D111DC356A500341393 /* Hello WorldUITests.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		50D10CEA1DC356A500341393 /* Project object */ = {
+		50FF0B0A1DC4702200BA6A61 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0810;
 				LastUpgradeCheck = 0810;
 				ORGANIZATIONNAME = Kissik;
 				TargetAttributes = {
-					50D10CF11DC356A500341393 = {
+					50FF0B111DC4702200BA6A61 = {
 						CreatedOnToolsVersion = 8.1;
 						ProvisioningStyle = Automatic;
-					};
-					50D10D051DC356A500341393 = {
-						CreatedOnToolsVersion = 8.1;
-						ProvisioningStyle = Automatic;
-						TestTargetID = 50D10CF11DC356A500341393;
-					};
-					50D10D101DC356A500341393 = {
-						CreatedOnToolsVersion = 8.1;
-						ProvisioningStyle = Automatic;
-						TestTargetID = 50D10CF11DC356A500341393;
 					};
 				};
 			};
-			buildConfigurationList = 50D10CED1DC356A500341393 /* Build configuration list for PBXProject "Hello World" */;
+			buildConfigurationList = 50FF0B0D1DC4702200BA6A61 /* Build configuration list for PBXProject "Hello World" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -215,99 +108,54 @@
 				en,
 				Base,
 			);
-			mainGroup = 50D10CE91DC356A500341393;
-			productRefGroup = 50D10CF31DC356A500341393 /* Products */;
+			mainGroup = 50FF0B091DC4702200BA6A61;
+			productRefGroup = 50FF0B131DC4702200BA6A61 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				50D10CF11DC356A500341393 /* Hello World */,
-				50D10D051DC356A500341393 /* Hello WorldTests */,
-				50D10D101DC356A500341393 /* Hello WorldUITests */,
+				50FF0B111DC4702200BA6A61 /* Hello World */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		50D10CF01DC356A500341393 /* Resources */ = {
+		50FF0B101DC4702200BA6A61 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				50D10D001DC356A500341393 /* LaunchScreen.storyboard in Resources */,
-				50D10CFD1DC356A500341393 /* Assets.xcassets in Resources */,
-				50D10CFB1DC356A500341393 /* Main.storyboard in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		50D10D041DC356A500341393 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		50D10D0F1DC356A500341393 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
+				50FF0B201DC4702200BA6A61 /* LaunchScreen.storyboard in Resources */,
+				50FF0B1D1DC4702200BA6A61 /* Assets.xcassets in Resources */,
+				50FF0B1B1DC4702200BA6A61 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		50D10CEE1DC356A500341393 /* Sources */ = {
+		50FF0B0E1DC4702200BA6A61 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				50D10CF81DC356A500341393 /* ViewController.swift in Sources */,
-				50D10CF61DC356A500341393 /* AppDelegate.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		50D10D021DC356A500341393 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				50D10D0B1DC356A500341393 /* Hello_WorldTests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		50D10D0D1DC356A500341393 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				50D10D161DC356A500341393 /* Hello_WorldUITests.swift in Sources */,
+				50FF0B181DC4702200BA6A61 /* ViewController.swift in Sources */,
+				50FF0B161DC4702200BA6A61 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
-/* Begin PBXTargetDependency section */
-		50D10D081DC356A500341393 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 50D10CF11DC356A500341393 /* Hello World */;
-			targetProxy = 50D10D071DC356A500341393 /* PBXContainerItemProxy */;
-		};
-		50D10D131DC356A500341393 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 50D10CF11DC356A500341393 /* Hello World */;
-			targetProxy = 50D10D121DC356A500341393 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
-
 /* Begin PBXVariantGroup section */
-		50D10CF91DC356A500341393 /* Main.storyboard */ = {
+		50FF0B191DC4702200BA6A61 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				50D10CFA1DC356A500341393 /* Base */,
+				50FF0B1A1DC4702200BA6A61 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		50D10CFE1DC356A500341393 /* LaunchScreen.storyboard */ = {
+		50FF0B1E1DC4702200BA6A61 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				50D10CFF1DC356A500341393 /* Base */,
+				50FF0B1F1DC4702200BA6A61 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -315,7 +163,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		50D10D181DC356A500341393 /* Debug */ = {
+		50FF0B221DC4702200BA6A61 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -364,7 +212,7 @@
 			};
 			name = Debug;
 		};
-		50D10D191DC356A500341393 /* Release */ = {
+		50FF0B231DC4702200BA6A61 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -406,7 +254,7 @@
 			};
 			name = Release;
 		};
-		50D10D1B1DC356A500341393 /* Debug */ = {
+		50FF0B251DC4702200BA6A61 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -418,7 +266,7 @@
 			};
 			name = Debug;
 		};
-		50D10D1C1DC356A500341393 /* Release */ = {
+		50FF0B261DC4702200BA6A61 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -427,100 +275,30 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.kissik.Hello-World";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-			};
-			name = Release;
-		};
-		50D10D1E1DC356A500341393 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				INFOPLIST_FILE = "Hello WorldTests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.kissik.Hello-WorldTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hello World.app/Hello World";
-			};
-			name = Debug;
-		};
-		50D10D1F1DC356A500341393 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				INFOPLIST_FILE = "Hello WorldTests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.kissik.Hello-WorldTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hello World.app/Hello World";
-			};
-			name = Release;
-		};
-		50D10D211DC356A500341393 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				INFOPLIST_FILE = "Hello WorldUITests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.kissik.Hello-WorldUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
-				TEST_TARGET_NAME = "Hello World";
-			};
-			name = Debug;
-		};
-		50D10D221DC356A500341393 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				INFOPLIST_FILE = "Hello WorldUITests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.kissik.Hello-WorldUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
-				TEST_TARGET_NAME = "Hello World";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		50D10CED1DC356A500341393 /* Build configuration list for PBXProject "Hello World" */ = {
+		50FF0B0D1DC4702200BA6A61 /* Build configuration list for PBXProject "Hello World" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				50D10D181DC356A500341393 /* Debug */,
-				50D10D191DC356A500341393 /* Release */,
+				50FF0B221DC4702200BA6A61 /* Debug */,
+				50FF0B231DC4702200BA6A61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		50D10D1A1DC356A500341393 /* Build configuration list for PBXNativeTarget "Hello World" */ = {
+		50FF0B241DC4702200BA6A61 /* Build configuration list for PBXNativeTarget "Hello World" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				50D10D1B1DC356A500341393 /* Debug */,
-				50D10D1C1DC356A500341393 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-		};
-		50D10D1D1DC356A500341393 /* Build configuration list for PBXNativeTarget "Hello WorldTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				50D10D1E1DC356A500341393 /* Debug */,
-				50D10D1F1DC356A500341393 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-		};
-		50D10D201DC356A500341393 /* Build configuration list for PBXNativeTarget "Hello WorldUITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				50D10D211DC356A500341393 /* Debug */,
-				50D10D221DC356A500341393 /* Release */,
+				50FF0B251DC4702200BA6A61 /* Debug */,
+				50FF0B261DC4702200BA6A61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 50D10CEA1DC356A500341393 /* Project object */;
+	rootObject = 50FF0B0A1DC4702200BA6A61 /* Project object */;
 }
