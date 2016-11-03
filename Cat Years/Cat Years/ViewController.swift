@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  Hello World
+//  Cat Years
 //
-//  Created by Yi-Chieh Chen on 10/29/16.
+//  Created by Yi-Chieh Chen on 11/4/16.
 //  Copyright © 2016 Kissik. All rights reserved.
 //
 
@@ -10,11 +10,12 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    @IBOutlet var textField: UITextField!
-    @IBOutlet var nameField: UILabel!
+    @IBOutlet var ageField: UITextField!
+    @IBOutlet var ageLabel: UILabel!
     
-    @IBAction func click(_ sender: Any) {
-            nameField.text = textField.text
+    @IBAction func clickSummit(_ sender: Any) {
+        let num = Int(ageField.text!)! * 7
+        ageLabel.text = String(num)
     }
     
     override func viewDidLoad() {
@@ -26,7 +27,6 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
-
+    
 }
 
